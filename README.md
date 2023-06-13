@@ -6,4 +6,4 @@ In this project, vanilla JS, CSS, and HTML are used to represent a memory game b
 It keeps track of the matched pairs found by the players and determines if Player 1, Player 2, or a tie has won.
 
 *Screen capture*
-![Screen Capture Pokemon Memory Card](screencapture.png)
+![Screen Capture Pokemon Memory Card](assets/screencapture.png)
